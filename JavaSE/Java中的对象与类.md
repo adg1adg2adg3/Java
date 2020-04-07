@@ -35,7 +35,7 @@
     显式参数(explici):方法里面传入的参数，Java中方法里面传入的参数为复制传参。
 
 ### 权限：
-![](https://github.com/adg1adg2adg3/This-Is-My-Notebook/blob/master/java/data/%E6%9D%83%E9%99%90.png?raw=true)
+![](https://github.com/adg1adg2adg3/Java/blob/master/JavaSE/data/%E6%9D%83%E9%99%90.png?raw=true)
 ### final关键字：
     修饰类：当前类不能有任何子类，因此类中方法也无法覆盖重写。
     修饰方法：最终方法，不能被覆盖重写，因此不能与abstract一起使用。
@@ -45,7 +45,7 @@
     修饰成员变量：使用final关键字必须手动指定数值初始化（可以先声明，用构造函数赋值，且之后不可修改）。
 
 ## 重载与重写：
-![](https://github.com/adg1adg2adg3/This-Is-My-Notebook/blob/master/java/data/%E9%87%8D%E8%BD%BD%E4%B8%8E%E9%87%8D%E5%86%99.png?raw=true)
+![](https://github.com/adg1adg2adg3/Java/blob/master/JavaSE/data/%E9%87%8D%E8%BD%BD%E4%B8%8E%E9%87%8D%E5%86%99.png?raw=true)
 [详细内容](https://www.cnblogs.com/myworld7/p/10398335.html#_label2)
 
 ## 导入包与类：
